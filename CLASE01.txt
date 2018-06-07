@@ -1,0 +1,32 @@
+SISTEMAS DE CONTROL DE VERSIONES
+
+Archivos
+FTP--> HOSTING /public_html/index.php
+==========================================
+Ejemplos de Controladores de Versiones
+-GitHub->Sistema de control de versiones
+-Otro tipo de controlador de versiones SVN(SubVersion)
+-TFS
+GIT HUB 
+Una copia local-centralizada o en el servidor 
+Es una Web app que consolida el control de versiones
+a-Git Control de Versiones
+b-Github :Web app consolida el control de versiones
+
+1 Red Social de programadores
+2 Basado en Web y Apps
+3 Mucho mas facil
+=========================================
+GIT HUB
+Repositorio de Codigo
+1. Multiples Versiones del mismo codigo
+2. Cambio DELTA (donde solo se hace cambio en una determinada linea de codigo)
+   Base de Datos atomica del codigo
+3. Historial de cada Archivo
+4. Multiples personas pueden trabajarsobre el mismo archivo
+5.CULPA AL CULPABLE
+6. Ramas (branches)
+	*master(github.com)
+	*master
+	*master
+
