@@ -1,0 +1,21 @@
+TEORIA DE GITHUB
+GITHUB->SISTEMA MANEJADOR DE CONTROLES
+Archivos
+FTP-->Hosting /public_html/index.php
+www.tumarca.com.pe
+Desventajas
+No pueden trabajar al mismo tiempo el mismo archivo
+No podemos ver quien a editado algo en el archivo
+======================================
+Sistema Manejador de Controles
+Git Control de Versiones / SVN(SubVersion) /TFS/Mercurial
+GitHub Web app consolida el control de versiones
+1. Res social de programadores.
+2. Web/app.
+3. Mucho mas facil de usar.
+
+=======================================
+Repositorio de codigo (Archivo de texto o binario).
+1.Multiple versiones del mismo codigo.
+2.Cambio Delta(donde solo se hicieron los cambios mas no )
+
