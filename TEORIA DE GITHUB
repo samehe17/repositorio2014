@@ -17,5 +17,16 @@ GitHub Web app consolida el control de versiones
 =======================================
 Repositorio de codigo (Archivo de texto o binario).
 1.Multiple versiones del mismo codigo.
-2.Cambio Delta(donde solo se hicieron los cambios mas no )
+2.Cambio Delta(base de datos atomica del codigo).
+3.Historial de cada archivo.
+4.Multiples personal pueden trabajar en el mismo archivo.
+5.Culpa al culpable.
+6.Ramas(Branches)
+	*master(github.com) REPO PRINCIPAL
+	*master(disco duro) REPO LOCAL
+		*master
+			---FUSION DE AMBAS RAMAS SE LLAMA MERGE
+			   (experimento-master)
+		*experimento LOCAL
 
+	*master(servidor.com) REPO PRODUCCION
